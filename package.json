@@ -1,0 +1,24 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asc.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gusma-crypto/structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gusma-crypto/structure/issues"
+  },
+  "homepage": "https://github.com/Gusma-crypto/structure#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
